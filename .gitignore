@@ -53,3 +53,6 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /spector.Console/.vs/spector.Console
+/spector.Console/.vs/ProjectEvaluation/spector.console.metadata.v9.bin
+/spector.Console/.vs/ProjectEvaluation/spector.console.projects.v9.bin
+/spector.Console/.vs/ProjectEvaluation/spector.console.strings.v9.bin
